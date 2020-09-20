@@ -22,3 +22,14 @@ Using Tethering
 The image is 0.5 megapixels.
 Shutter speed from bulb to 1/4
 Changing the shutter speed does not change the image that can be taken.
+
+This camera has a small sensor, so it can only capture a very small area in the viewfinder.
+It is very difficult to focus. Even if you can make it, it's not always possible to shoot as intended.
+The shutter and shooting work together, but you can't shoot in the dark 
+because you're using the brightness to the sensor as a threshold.
+
+Still, it's glad to have someone to build with and get excited about.
+
+This is the limit of my current technology. I'd be happy if we all could make it even better.
+
+Sanasol
