@@ -1,5 +1,7 @@
 # Nikon_FM_digital
 
+Blueprint on youtube
+https://youtu.be/RhktNbezCIs
 
 Copyright (c) Sanasol@asanonasa_net
 special thanks ano研 https://anoken.jimdofree.com/
